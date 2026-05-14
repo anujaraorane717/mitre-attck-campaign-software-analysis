@@ -1,2 +1,13 @@
 # mitre-attck-campaign-software-analysis
-esearch report on the LockBit ransomware campaign and MITRE ATT&amp;CK software analysis (S0640–S0650) prepared during a cybersecurity threat intelligence internship.
+This repository contains a cybersecurity threat intelligence research report focused on:
+
+- LockBit Ransomware Group Campaign Analysis
+- MITRE ATT&CK Techniques and TTPs
+- Malware/Software Analysis from S0640 to S0650
+- Detection Opportunities and Defensive Recommendations
+- Real-world ransomware incidents and threat actor behavior
+
+Prepared as part of a Cybersecurity Research Internship.
+
+Intern ID: 2164
+MITRE ATT&CK Version: v19
